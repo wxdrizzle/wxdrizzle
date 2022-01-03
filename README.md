@@ -1,19 +1,14 @@
-### Hi there 👋
+<br />
+<p align="center"><a href="https://wxdrizzle.github.io"><img width="30%" src="./head_readme.png" /></a></p>
 
-[![Xin's GitHub stats](https://github-readme-stats-sandy-three.vercel.app/api?username=wxdrizzle&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://wxdrizzle.github.io)
-[![Top Langs](https://github-readme-stats-sandy-three.vercel.app/api/top-langs/?username=wxdrizzle&layout=compact)](https://wxdrizzle.github.io)
+<br />
 
-<!--
-**wxdrizzle/wxdrizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a PhD student in Electrical & Computer Engineering at the University of Washington. 
+- My research interests include medical image analysis and machine learning. I'm also interested in statistics.
+- (Coming soon) See more information about me [here](https://wxdrizzle.github.io/about).
+- (Coming soon) Welcome to read [my blog](https://wxdrizzle.github.io/)! I will write some articles about techniques, mathematics and more.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-sandy-three.vercel.app/api?username=wxdrizzle&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xin's github stats" /></a> | <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-sandy-three.vercel.app/api/top-langs/?username=wxdrizzle&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
