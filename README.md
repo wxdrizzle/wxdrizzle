@@ -7,7 +7,7 @@
 
 - I'm a PhD student in Electrical & Computer Engineering at the University of Washington, co-advised by Prof. Chun Yuan and Prof. Linda Shapiro.
 - My research interests include medical image analysis and machine learning. I'm also interested in statistics.
-- Welcome to [my homepage](https://wxdrizzle.github.io/) and read my blog! I will write some articles about techniques, mathematics and more. 
+- Welcome to [my homepage](https://wxdrizzle.github.io/) and read my [blog](https://wxdrizzle.github.io/blog/)! I will write some articles about techniques, mathematics and more. 
 <!-- - (Coming soon) See more information about me [here](https://wxdrizzle.github.io/about).-->
 
 <br />
