@@ -12,5 +12,5 @@
 
 <br />
 
-| <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-sandy-three.vercel.app/api?username=wxdrizzle&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xin's github stats" /></a> | <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-sandy-three.vercel.app/api/top-langs/?username=wxdrizzle&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-eight-azure.vercel.app/api?username=wxdrizzle&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xin's github stats" /></a> | <a href="https://wxdrizzle.github.io"><img align="center" src="https://github-readme-stats-eight-azure.vercel.app/api/top-langs/?username=wxdrizzle&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
