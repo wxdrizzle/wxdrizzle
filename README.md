@@ -1,9 +1,3 @@
-<br />
-<p align="center"><a href="https://wxdrizzle.github.io"><img width="30%" src="./head_readme.png" /></a></p>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wxdrizzle&&style=flat-square" align="center" />
-</div>  
-<br />
 
 - I'm a PhD student in Electrical & Computer Engineering at the University of Washington, co-advised by Prof. Chun Yuan and Prof. Linda Shapiro.
 - My research interests include medical image analysis and machine learning. I'm also interested in statistics.
